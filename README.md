@@ -24,4 +24,4 @@ Tensorflow == 1.4.0
 ```
 
 ## Others:
-The code comments will be added in the future.
+The code comments and detailed usage will be added in the future.
