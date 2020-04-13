@@ -4,9 +4,10 @@ Authors: Shizhou Dong, Zhifan Gao, Shanhui Sun, Xin Wang, Ming Li, Heye Zhang, G
 ![mainimg](https://github.com/zhifan-gao/HDFP/blob/master/sample_results.png)
 
 ## Introduction
-This is a Tensorflow implementation for a salient object detection approach based on XXXXX, as presented in:
+This is a Tensorflow implementation for a salient object detection approach based on the deep pyramid neural network, as presented in:
 
-S. Dong, Z. Gao, et al., Holistic and Deep Feature Pyramids for Saliency Detection, British Machine Vision Conference, 2018. [Link](http://bmvc2018.org/contents/papers/0212.pdf)
+S. Dong, Z. Gao, et al., Holistic and Deep Feature Pyramids for Saliency Detection, British Machine Vision Conference, 2018. [[Link]](http://bmvc2018.org/contents/papers/0212.pdf)
+
 ## Citation
 ```
 @inproceedings{SD2018Holistic,
@@ -17,7 +18,10 @@ S. Dong, Z. Gao, et al., Holistic and Deep Feature Pyramids for Saliency Detecti
 }
 ```
 
-Requirement:
+## Requirement:
 ```
 Tensorflow == 1.4.0
 ```
+
+## Others:
+The code comments will be added in the future.
